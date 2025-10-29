@@ -1,5 +1,7 @@
 # Twig Ticket Management App
 
+Live URL: https://twig-ticket-management-app.infinityfree.me
+
 A simple ticket management system built with PHP and Twig templating engine, featuring a clean UI with Tailwind CSS.
 
 ## Features
@@ -63,7 +65,7 @@ Delete operations use custom JavaScript toast notifications instead of browser a
    php -S localhost:8000 index.php
    ```
 
-3. **Access**: Open `http://localhost:8000` in your browser
+3. **Access**: Open `https://twig-ticket-management-app.infinityfree.me/` in your browser
 
 ## Usage
 
